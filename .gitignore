@@ -1,6 +1,0 @@
-.venv/
-.vscode/
-__pycache__/
-*.pem
-ip.txt
-ip_clean.txt
